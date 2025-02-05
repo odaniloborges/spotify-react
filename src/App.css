@@ -1,3 +1,12 @@
 body {
+  margin: 0;
+  font-family: var(--font-dm-sans);
   background-color: #000000;
+}
+
+.main-container {
+  max-width: 80vw;
+  height: 100vh;
+  margin-left: 320px;
+  margin-right: 56px;
 }
